@@ -893,7 +893,7 @@ set default_config(gui.spellingdictionary) {}
 set default_config(gui.fontui) [font configure font_ui]
 set default_config(gui.fontdiff) [font configure font_diff]
 # TODO: this option should be added to the git-config documentation
-set default_config(gui.maxfilesdisplayed) 5000
+set default_config(gui.maxfilesdisplayed) 15000
 set default_config(gui.usettk) 1
 set default_config(gui.warndetachedcommit) 1
 set default_config(gui.tabsize) 8
